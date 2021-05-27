@@ -2,4 +2,4 @@
 Crud em PHP
 ### Objetivo: 
 
->Sistema CRUD simples em PHP, HTML5, CSS, Javascript, Bootstrap e MySQL para cadastro de produtos.
+>Sistema CRUD Basico com Bootstrap, PHP e MySQL para cadastro de produtos.
